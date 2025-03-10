@@ -1,0 +1,371 @@
+2025-03-10 13:55:53,216 - elsapy.elsclient - INFO - Module loaded.
+2025-03-10 13:55:56,480 - elsapy.elsentity - INFO - Module loaded.
+2025-03-10 13:55:56,481 - elsapy.utils - INFO - Module loaded.
+2025-03-10 13:55:56,481 - elsapy.elsprofile - INFO - Module loaded.
+2025-03-10 13:55:56,482 - elsapy.elsdoc - INFO - Module loaded.
+2025-03-10 13:55:56,494 - elsapy.elssearch - INFO - Module loaded.
+2025-03-10 13:55:56,512 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6602566280%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:00,017 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%28+6602566280%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:01,458 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:56:02,370 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57935194100%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:05,396 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57222546282%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:07,857 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+55775348600%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:09,360 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:56:10,357 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57217656691%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:12,339 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:56:13,337 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7102636970%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:14,914 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:56:15,914 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7402153477%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:17,498 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:56:18,496 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6701806140%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:21,181 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7003625060%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:23,008 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:56:24,004 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+35803851000%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:27,296 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:56:28,294 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+20334798100%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:30,962 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57214358440%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:32,653 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:56:33,634 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6506921926%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:35,190 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:56:36,189 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+50161540900%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:37,389 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:56:38,385 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+14058373600%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:39,518 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:56:40,518 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57220595830%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:42,450 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7102240088%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:43,731 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:56:44,730 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57205752212%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:46,620 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7201736265%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:47,525 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:56:48,523 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57645110200%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:50,328 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6603910965%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:52,161 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6508358930%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:53,048 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:56:54,044 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7005061686%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:55,848 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57202907197%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:56,922 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:56:57,921 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7101811060%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:56:58,993 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:56:59,989 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+8843627500%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:57:00,977 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:57:01,975 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6603848328%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:57:03,104 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:57:04,102 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6508208711%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:57:05,159 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:57:06,157 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7004915318%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:57:07,116 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:57:08,114 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7102000872%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:57:09,849 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57215789537%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:57:11,647 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+56893669400%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 13:57:12,615 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 13:57:13,614 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7202282108%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:18:17,448 - elsapy.elsclient - INFO - Module loaded.
+2025-03-10 14:18:20,102 - elsapy.elsentity - INFO - Module loaded.
+2025-03-10 14:18:20,103 - elsapy.utils - INFO - Module loaded.
+2025-03-10 14:18:20,103 - elsapy.elsprofile - INFO - Module loaded.
+2025-03-10 14:18:20,104 - elsapy.elsdoc - INFO - Module loaded.
+2025-03-10 14:18:20,108 - elsapy.elssearch - INFO - Module loaded.
+2025-03-10 14:18:20,135 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6602566280%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:18:23,586 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%28+6602566280%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:18:25,490 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:18:26,397 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57935194100%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:18:28,671 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57222546282%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:18:31,093 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+55775348600%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:18:32,664 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:18:33,663 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57217656691%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:18:35,390 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:18:36,388 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7102636970%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:18:38,367 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:18:39,366 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7402153477%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:18:40,767 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:18:41,765 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6701806140%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:18:43,982 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7003625060%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:18:45,037 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:18:46,037 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+35803851000%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:18:47,414 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:18:48,414 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+20334798100%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:18:51,476 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57214358440%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:18:52,772 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:18:53,770 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6506921926%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:18:55,090 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:18:56,087 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+50161540900%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:18:57,768 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:18:58,766 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+14058373600%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:00,737 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:19:01,736 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57220595830%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:03,947 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7102240088%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:06,283 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:19:07,283 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57205752212%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:09,750 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7201736265%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:11,475 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:19:12,474 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57645110200%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:14,780 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6603910965%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:16,867 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6508358930%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:17,867 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:19:18,866 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7005061686%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:20,846 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57202907197%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:21,966 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:19:22,964 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7101811060%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:23,964 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:19:24,962 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+8843627500%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:26,008 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:19:27,007 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6603848328%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:27,765 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:19:28,763 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6508208711%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:29,682 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:19:30,680 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7004915318%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:31,611 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:19:32,605 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7102000872%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:34,364 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57215789537%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:36,138 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+56893669400%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:37,283 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:19:38,282 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7202282108%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:38,773 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:19:39,771 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7102939943%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:40,854 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:19:41,852 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7006388802%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:42,820 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:19:43,819 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6603234639%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:45,654 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+35584095400%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:47,421 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+9036948400%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:48,250 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:19:49,249 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7202244730%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:50,161 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:19:51,159 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7202875495%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:52,219 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:19:53,217 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7004135414%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:54,176 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:19:55,175 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+8565340000%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:56,333 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:19:57,332 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7005393044%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:19:58,275 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:19:59,274 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7101755352%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:00,406 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:20:01,404 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+36834301600%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:05,475 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:20:06,473 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+16426642900%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:07,424 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:20:08,422 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7401592953%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:09,356 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:20:10,356 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7202419754%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:11,879 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:20:12,877 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+23988634300%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:14,293 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:20:15,292 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57211767979%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:17,330 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+35228962600%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:18,753 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:20:19,752 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7103383672%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:21,545 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:20:22,544 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57201275401%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:24,323 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:20:25,322 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57211649761%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:26,924 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:20:27,923 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6508334448%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:29,626 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:20:30,625 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7003500444%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:31,885 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:20:32,884 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7006558850%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:34,301 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:20:35,300 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7103138829%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:36,446 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:20:37,445 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7005681420%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:39,413 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:20:40,412 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57739296000%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:41,821 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:20:42,820 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7202926065%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:45,664 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:20:46,663 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7102935766%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:48,346 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:20:49,345 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57943803800%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:51,565 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+14030625500%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:54,601 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%28+14030625500%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:55,644 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:20:56,633 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6506965877%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:20:58,278 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:20:59,277 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57214210019%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:21:00,716 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:21:01,715 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57787016900%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:21:04,580 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7004096240%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:21:05,999 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:21:06,998 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+56018937500%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:21:08,512 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:21:09,511 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7101941609%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:21:10,833 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:21:11,832 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57865768700%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:21:14,226 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+16555220300%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:21:15,808 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:21:16,804 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7004191598%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:21:18,424 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:21:19,424 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+37041677700%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:21:21,922 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57205413468%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:21:24,485 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+23670791300%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:21:26,097 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:21:27,096 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57314548100%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:21:29,525 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7005003245%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:21:31,999 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+55963926800%29+AND+PUBYEAR+%3E+2022+AND+PUBYEAR+%3C+2024
+2025-03-10 14:21:33,329 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:25:16,248 - elsapy.elsclient - INFO - Module loaded.
+2025-03-10 14:25:16,643 - elsapy.elsentity - INFO - Module loaded.
+2025-03-10 14:25:16,643 - elsapy.utils - INFO - Module loaded.
+2025-03-10 14:25:16,644 - elsapy.elsprofile - INFO - Module loaded.
+2025-03-10 14:25:16,644 - elsapy.elsdoc - INFO - Module loaded.
+2025-03-10 14:25:16,645 - elsapy.elssearch - INFO - Module loaded.
+2025-03-10 14:25:17,249 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6602566280%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:25:18,700 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:25:19,694 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57935194100%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:25:21,973 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57222546282%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:25:23,459 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+55775348600%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:25:24,445 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:25:25,442 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57217656691%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:25:26,707 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:25:27,704 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7102636970%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:25:29,334 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7402153477%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:25:30,864 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6701806140%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:25:33,336 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7003625060%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:25:35,454 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+35803851000%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:25:37,448 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+20334798100%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:25:38,750 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:25:39,747 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57214358440%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:25:41,580 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:25:42,577 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6506921926%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:25:44,556 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+50161540900%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:25:46,691 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:25:47,688 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+14058373600%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:25:49,317 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:25:50,313 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57220595830%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:25:52,174 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7102240088%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:25:53,267 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:25:54,264 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57205752212%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:25:56,708 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7201736265%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:25:58,100 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:25:59,097 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57645110200%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:26:01,452 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6603910965%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:26:04,096 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6508358930%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:26:04,955 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:26:05,952 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7005061686%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:26:07,365 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:26:15,053 - elsapy.elsclient - INFO - Module loaded.
+2025-03-10 14:26:15,443 - elsapy.elsentity - INFO - Module loaded.
+2025-03-10 14:26:15,443 - elsapy.utils - INFO - Module loaded.
+2025-03-10 14:26:15,443 - elsapy.elsprofile - INFO - Module loaded.
+2025-03-10 14:26:15,444 - elsapy.elsdoc - INFO - Module loaded.
+2025-03-10 14:26:15,445 - elsapy.elssearch - INFO - Module loaded.
+2025-03-10 14:26:16,055 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6602566280%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:26:17,163 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:28:07,196 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57935194100%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:09,852 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57222546282%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:12,129 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+55775348600%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:13,325 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:28:14,322 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57217656691%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:15,979 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:28:16,976 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7102636970%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:19,226 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7402153477%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:21,975 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6701806140%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:24,627 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7003625060%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:26,519 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+35803851000%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:28,995 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+20334798100%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:30,060 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:28:31,056 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57214358440%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:32,608 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:28:33,605 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6506921926%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:36,067 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+50161540900%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:37,166 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:28:38,162 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+14058373600%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:39,863 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:28:40,860 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57220595830%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:43,758 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7102240088%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:45,686 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:28:46,683 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57205752212%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:48,803 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7201736265%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:50,520 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:28:51,517 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57645110200%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:54,410 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6603910965%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:56,897 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6508358930%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:28:58,954 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:28:59,951 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7005061686%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:02,244 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:29:03,242 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57202907197%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:05,627 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7101811060%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:07,796 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:29:08,794 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+8843627500%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:12,209 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%28+8843627500%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:14,677 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=AU-ID%28+8843627500%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:16,101 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:29:17,087 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6603848328%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:18,288 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:29:19,285 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6508208711%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:21,117 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7004915318%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:23,039 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:29:24,037 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7102000872%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:27,056 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57215789537%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:29,017 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+56893669400%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:31,865 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%28+56893669400%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:33,708 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:29:34,704 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7202282108%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:37,633 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%28+7202282108%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:38,915 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:29:39,912 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7102939943%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:43,819 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7006388802%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:46,124 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6603234639%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:48,636 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+35584095400%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:51,338 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+9036948400%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:52,815 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:29:53,812 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7202244730%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:56,373 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7202875495%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:29:58,742 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7004135414%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:00,618 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+8565340000%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:04,804 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:30:05,799 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7005393044%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:08,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7101755352%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:12,096 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+36834301600%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:14,144 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+16426642900%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:16,851 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7401592953%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:19,639 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7202419754%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:21,349 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:30:22,345 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+23988634300%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:24,645 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57211767979%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:26,931 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+35228962600%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:28,188 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:30:29,185 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7103383672%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:30,637 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:30:31,634 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57201275401%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:33,154 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:30:34,151 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57211649761%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:36,188 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6508334448%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:37,043 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:30:38,040 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7003500444%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:39,590 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7006558850%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:41,055 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7103138829%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:42,350 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:30:43,346 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7005681420%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:43,751 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:30:44,748 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57739296000%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:45,597 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:30:46,592 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7202926065%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:47,633 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:30:48,630 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7102935766%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:50,883 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%28+7102935766%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:53,212 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=AU-ID%28+7102935766%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:53,703 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:30:54,699 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57943803800%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:56,487 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+14030625500%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:58,729 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%28+14030625500%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:30:59,149 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:31:00,145 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+6506965877%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:31:01,956 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57214210019%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:31:03,716 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57787016900%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:31:05,506 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7004096240%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:31:07,298 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+56018937500%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:31:09,074 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7101941609%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:31:10,837 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57865768700%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:31:12,197 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+16555220300%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:31:13,039 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:31:14,036 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7004191598%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:31:14,594 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:31:15,592 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+37041677700%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:31:17,450 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57205413468%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:31:18,042 - elsapy.utils - INFO - Converting prism:coverDate
+2025-03-10 14:31:19,040 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+23670791300%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:31:21,223 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+57314548100%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:31:23,413 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+7005003245%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29
+2025-03-10 14:31:25,637 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28+55963926800%29+AND+%28TITLE-ABS%28EEG%29+OR+TITLE-ABS%28electroencephalography%29%29

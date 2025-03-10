@@ -23,12 +23,12 @@ allpubs={}
 
 ## Initialize author search object and execute search
 for authorname, scopus_id in scopus_ids:
-    auth_srch = ElsSearch(f'AU-ID({scopus_id})','scopus')
+    auth_srch = ElsSearch(f'AU-ID({scopus_id}) AND PUBYEAR > 2022 AND PUBYEAR < 2024','scopus')
     auth_srch.execute(client, get_all=True)
     # for item in auth_srch.results:
     #     print(f"{item['citedby-count']}  {item['dc:title']}")
     allpubs[scopus_id] = auth_srch.results
     print (f"{authorname} has {len(auth_srch.results)} results.")
 
-with open('allpubs.pickle','wb') as of:
+with open('allpubs-2025.pickle','wb') as of:
     pickle.dump( allpubs, of)
