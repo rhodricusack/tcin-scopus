@@ -60,7 +60,9 @@ with open(f'allpubs{suffix}.pickle', 'rb') as f:
     df_dept = df_dept.sort_values(by='medic') # separate medical disciplines from others for later chord diagram
 
     df_dept['medic_cross'] = ''
-    df_dept['medic_cross'][df_dept['medic']=='yes']='+' 
+    df_dept.loc[df_dept['medic']=='yes', 'medic_cross'] = '+'
+    df_dept['school/dept'] = df_dept['school/dept'].fillna('unknown')
+    df_dept['medic_cross'] = df_dept['medic_cross'].fillna('')
     df_dept['medic_dept'] = df_dept['medic_cross'] + df_dept['school/dept']
     nauth = len(auth_short_names_unique)
     coauthcount = np.zeros((nauth,nauth))
@@ -82,6 +84,7 @@ with open(f'allpubs{suffix}.pickle', 'rb') as f:
     # Take out people with no publications
     coauthcount = coauthcount[mask,:][:,mask]
     auth_short_names_unique = [auth_short_names_unique[i] for i in range(nauth) if mask[i]]
+    nauth = len(auth_short_names_unique)
 
     rdm = 1/(coauthcount +1)
 
@@ -132,7 +135,7 @@ with open(f'allpubs{suffix}.pickle', 'rb') as f:
     ax.axis('off')
     plt.tight_layout()
 
-    plt.savefig('coauth_mds{suffix}.png')
+    plt.savefig(f'coauth_mds{suffix}.png')
 
     edges = pd.DataFrame()
 
@@ -141,8 +144,6 @@ with open(f'allpubs{suffix}.pickle', 'rb') as f:
             n1 =auth_short_names_unique[a1]
             dept0 = depts.index(df_dept[df_dept['name_x']==n0].iloc[0]['medic_dept'])
             dept1 = depts.index(df_dept[df_dept['name_x']==n1].iloc[0]['medic_dept'])
-#            ax.annotate(name, (E[authind,0], E[authind,1]), ha='center', color=list(mcolors.XKCD_COLORS.keys())[depts.index(row['medic_dept'])])
-            ax.annotate(name, (E[authind,0], E[authind,1]), ha='center', color='black')
             if coauthcount[a0,a1]:
                 edges = pd.concat((edges, pd.DataFrame.from_dict({'source':[dept0], 'target':[dept1], 'value': [coauthcount[a0,a1]] })), ignore_index=True)
     
@@ -151,11 +152,10 @@ with open(f'allpubs{suffix}.pickle', 'rb') as f:
 
     hv.extension('matplotlib')
     hv.output(size=300, dpi=300)
-    edges = pd.read_csv('chord_edges.csv')
+    edges.to_csv('chord_edges.csv', index=False)
     edges['source'] = pd.to_numeric(edges['source'])
     edges['target'] = pd.to_numeric(edges['target'])
     edges['value'] = pd.to_numeric(edges['value'])
-    edges = edges.drop(columns='Unnamed: 0')
     edges_grouped = edges.groupby(by=['source', 'target'],  as_index=False).sum()
     # get rid of within dept links
     edges_grouped = edges_grouped[edges_grouped['source'] != edges_grouped['target']]
@@ -175,7 +175,7 @@ with open(f'allpubs{suffix}.pickle', 'rb') as f:
         opts.Chord(cmap='Category20', edge_cmap='Category20', edge_color=dim('source').str(), 
                 labels='depts', node_color=dim('depts').str()))
         
-    hv.save(chord, 'chorddiag{suffix}.png')
+    hv.save(chord, f'chorddiag{suffix}.png')
 
 
     print("duplicate values", str(result))
