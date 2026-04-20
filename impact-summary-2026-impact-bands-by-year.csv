@@ -1,0 +1,37 @@
+pub_year,impact_band,publications,total_citations,avg_if,journal_examples
+2021,0-2,14,181,1.0142857142857142,New Scientist | Archives of Disease in Childhood Education and Practice Edition | Disaster and Emergency Medicine Journal
+2021,2-4,35,469,3.1085714285714285,Acta Neurochirurgica | Journal of Visualized Experiments | International Journal of Law and Psychiatry
+2021,4-8,173,3685,5.850867052023122,Neurological Sciences | Neonatology | Journal of the Neurological Sciences
+2021,8-16,130,4604,11.143846153846154,Developmental Medicine and Child Neurology | Acta Psychiatrica Scandinavica | Journal of Neuroscience
+2021,16-32,42,2476,22.55,Mucosal Immunology | JAMA Pediatrics | American Journal of Psychiatry
+2021,32+,11,3572,67.92727272727274,Lancet | Lancet Neurology | New England Journal of Medicine
+2021,unmatched,25,373,,35th Aaai Conference on Artificial Intelligence Aaai 2021 | Medicina Lithuania | Health Technology Assessment
+2022,0-2,13,51,1.1384615384615384,Neuro Ophthalmology | Case Reports in Ophthalmology | Groupwork
+2022,2-4,52,440,2.9923076923076923,Pediatric Emergency Care | Innovation in Aging | Neuroregulation
+2022,4-8,169,3031,6.132544378698225,Frontiers in Pediatrics | Cerebral Cortex | Journal of Medical Genetics
+2022,8-16,129,2655,10.793798449612403,European Child and Adolescent Psychiatry | Addiction | Molecular Therapy Methods and Clinical Development
+2022,16-32,39,3427,21.53076923076923,Nature Communications | Neuron | American Journal of Psychiatry
+2022,32+,17,6641,54.758823529411764,Nature Reviews Neuroscience | Circulation | Nature Genetics
+2022,unmatched,23,292,,Aging from Fundamental Biology to Societal Impact | Journal of Pain and Symptom Management | Disability and Rehabilitation
+2023,0-2,19,29,1.1105263157894738,Ophthalmic Surgery Lasers and Imaging Retina | Leonardo | Acta Haematologica Polonica
+2023,2-4,41,155,3.182926829268293,Frontiers in Education | Journal of Medical Devices Transactions of the ASME | Addiction Neuroscience
+2023,4-8,144,1310,5.94375,Plos One | Acta Neuropsychiatrica | Neonatology
+2023,8-16,114,2074,10.871929824561404,American Journal of Geriatric Psychiatry | Neuroscience and Biobehavioral Reviews | Current Opinion in Behavioral Sciences
+2023,16-32,33,910,21.80606060606061,American Journal of Psychiatry | Biological Psychiatry | JAMA Neurology
+2023,32+,14,1331,59.58571428571429,Nature Reviews Immunology | Lancet Neurology | Nature Medicine
+2023,unmatched,21,146,,2023 IEEE 19th International Conference on Body Sensor Networks Bsn 2023 Proceedings | Cambridge Textbook of Neuroscience for Psychiatrists | Free Agents how Evolution Gave Us Free Will
+2024,0-2,14,12,1.1857142857142857,Ophthalmic Surgery Lasers and Imaging Retina | Oncology in Clinical Practice | Advances in Neurobiology
+2024,2-4,25,56,3.14,American Journal of Perinatology | Journal of the Economics of Ageing | Journal of Neonatal Perinatal Medicine
+2024,4-8,148,862,5.999324324324324,Cognitive Science | Acta Neuropsychiatrica | British Journal of Clinical Pharmacology
+2024,8-16,106,1294,10.696226415094339,ACM Transactions on Interactive Intelligent Systems | Alzheimer S and Dementia | Jci Insight
+2024,16-32,27,307,22.8962962962963,Nature Human Behaviour | Proceedings of the National Academy of Sciences of the United States of America | Anaesthesia
+2024,32+,13,1116,62.784615384615385,Lancet | Lancet Neurology | Nature Neuroscience
+2024,unmatched,43,96,,Riddle of Organismal Agency New Historical and Philosophical Reflections | Journal of Applied Gerontology | Occupational Therapy with Aging Adults Elsevier Ebook on Vitalsource Second Edition
+2025,0,1,0,0.0,Horizonte Medico
+2025,0-2,11,4,0.8636363636363636,European Journal of Clinical and Experimental Medicine | Neuromethods | Teorema
+2025,2-4,24,12,3.225,Acta Psychologica | Exploratory Research in Clinical and Social Pharmacy | Pediatric Cardiology
+2025,4-8,144,247,5.859722222222222,European Journal of Pediatrics | Acta Neuropsychiatrica | Ear and Hearing
+2025,8-16,113,285,11.064601769911505,Social Science and Medicine | Psychological Medicine | Acta Psychiatrica Scandinavica
+2025,16-32,46,318,22.958695652173912,Nature Microbiology | Molecular Psychiatry | Acta Neuropathologica
+2025,32+,14,535,61.114285714285714,Nature Reviews Immunology | Lancet | Nature Medicine
+2025,unmatched,31,31,,Aging and Health Research | Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society EMBS | Neuroscience

@@ -1,7 +1,7 @@
-import json
 import pickle
 import pandas as pd
 import numpy as np
+from scopus_ids_utils import load_scopus_ids
 def short_name(auth):
     short_name = auth.split(',')[0]+','+auth.split(',')[1].strip().replace('Dr ','')[0]
     if short_name == 'P Doherty,C':
@@ -11,8 +11,7 @@ def short_name(auth):
 suffix='-eeg-2025'
 logcoauth = False
 
-with open('scopus_ids.json', 'r') as f:
-    scopus_ids = json.load(f)
+scopus_ids = load_scopus_ids()
 
 prism=[]
 with open(f'allpubs{suffix}.pickle', 'rb') as f:

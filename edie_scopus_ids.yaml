@@ -1,0 +1,264 @@
+search_field: AU-ID
+join_operator: OR
+groups:
+- entries:
+  - name: Bokde, Arun L.W.
+    scopus_id: '6602566280'
+    location: lloyd
+  - name: Bokde, Arun L.W.
+    scopus_id: '57935194100'
+    location: lloyd
+  - name: Bokde, Dr Arun
+    scopus_id: '57222546282'
+    location: lloyd
+- entries:
+  - name: Lopez-Valdes, Alejandro
+    scopus_id: '55775348600'
+    location: lloyd
+- entries:
+  - name: Corvin, Aiden P.
+    scopus_id: '57217656691'
+- entries:
+  - name: Lynch, Aileen M.
+    scopus_id: '7102636970'
+- entries:
+  - name: Kelly, Aine M.
+    scopus_id: '7402153477'
+- entries:
+  - name: Witney, A. G.
+    scopus_id: '6701806140'
+- entries:
+  - name: Harkin, Andrew J.
+    scopus_id: '7003625060'
+    location: lloyd
+- entries:
+  - name: Sasse, Astrid
+    scopus_id: '35803851000'
+- entries:
+  - name: Lawlor, Brian A.
+    scopus_id: '20334798100'
+  - name: Lawlor, Brian A.
+    scopus_id: '57214358440'
+- entries:
+  - name: Kerskens, Christian M.
+    scopus_id: '6506921926'
+    location: lloyd
+- entries:
+  - name: Gillan, Claire M.
+    scopus_id: '50161540900'
+    location: lloyd
+- entries:
+  - name: Kelly, Clare
+    scopus_id: '14058373600'
+    location: lloyd
+  - name: Kelly, Clare
+    scopus_id: '57220595830'
+    location: lloyd
+- entries:
+  - name: Doherty, Colin P.
+    scopus_id: '7102240088'
+  - name: P Doherty, Colin
+    scopus_id: '57205752212'
+- entries:
+  - name: Cunningham, Colm
+    scopus_id: '7201736265'
+  - name: Cunningham, Colm
+    scopus_id: '57645110200'
+- entries:
+  - name: McCrory, Connail R.
+    scopus_id: '6603910965'
+- entries:
+  - name: Tropea, Daniela
+    scopus_id: '6508358930'
+- entries:
+  - name: McLoughlin, Declan M.
+    scopus_id: '7005061686'
+  - name: McLoughlin, Declan M.
+    scopus_id: '57202907197'
+- entries:
+  - name: O'Neill, Desmond J.
+    scopus_id: '7101811060'
+  - name: Molloy, Eleanor Joan
+    scopus_id: '6603848328'
+- entries:
+  - name: Downer, Eric J.
+    scopus_id: '6508208711'
+- entries:
+  - name: Jiménez-Mateos,E.M.
+    scopus_id: '36955280200'    
+- entries:
+  - name: Newell, F. N.
+    scopus_id: '7004915318'
+    location: lloyd
+- entries:
+  - name: Davey, Gavin P.
+    scopus_id: '7102000872'
+  - name: Davey, Gavin P.
+    scopus_id: '57215789537'
+- entries:
+  - name: Di Liberto, Giovanni M.
+    scopus_id: '56893669400'
+    location: lloyd
+- entries:
+  - name: Robertson, Ian H.
+    scopus_id: '7202282108'
+- entries:
+  - name: Farrar, Gwyneth Jane
+    scopus_id: '7102939943'
+- entries:
+  - name: Harbison, Joseph A.
+    scopus_id: '7006388802'
+- entries:
+  - name: Labrador, J. P.
+    scopus_id: '6603234639'
+- entries:
+  - name: Kelly, Julie Anne
+    scopus_id: '35584095400'
+    location: lloyd
+- entries:
+  - name: Mitchell, Kevin J.
+    scopus_id: '9036948400'
+- entries:
+  - name: Ahmad, Khurshid
+    scopus_id: '7202244730'
+    location: lloyd
+- entries:
+  - name: Mills, Kingston H.G.
+    scopus_id: '7202875495'
+- entries:
+  - name: Dev, Kumlesh Kumar
+    scopus_id: '7004135414'
+- entries:
+  - name: Naçi, Lorina
+    scopus_id: '8565340000'
+    location: lloyd
+- entries:
+  - name: Caldwell, Maeve A.
+    scopus_id: '7101755352'
+    location: lloyd
+- entries:
+  - name: Ramaswami, Mani
+    scopus_id: '36834301600'
+    location: lloyd
+- entries:
+  - name: Tsanov, Marian
+    scopus_id: '16426642900'
+- entries:
+  - name: Lynch, Marina A.
+    scopus_id: '7401592953'
+    location: lloyd
+- entries:
+  - name: Cannon, Mary
+    scopus_id: '7202419754'
+- entries:
+  - name: Campbell, Mathew
+    scopus_id: '23988634300'
+- entries:
+   - name: Rowan, Michael J.
+     scopus_id: '7103383672'
+- entries:
+  - name: Hardiman, Orla
+    scopus_id: '57201275401'
+  - name: Hardiman, Orla
+    scopus_id: '57211649761'
+- entries:
+  - name: Dockree, Paul M.
+    scopus_id: '6508334448'
+    location: lloyd
+- entries:
+  - name: Kenna, Paul F.
+    scopus_id: '7003500444'
+- entries:
+  - name: O'Connell, Redmond G.
+    scopus_id: '7103138829'
+    location: lloyd
+- entries:
+  - name: Cusack, Rhodri
+    scopus_id: '7005681420'
+    location: lloyd
+  - name: Cusack, Rhodri
+    scopus_id: '57739296000'
+    location: lloyd
+- entries:
+  - name: Carson, Richard G.
+    scopus_id: '7202926065'
+    location: lloyd
+- entries:
+  - name: Reilly, Richard B.
+    scopus_id: '7102935766'
+    location: lloyd
+  - name: Reilly, Richard B.
+    scopus_id: '57943803800'
+    location: lloyd
+- entries:
+  - name: Whelan, Robert
+    scopus_id: '14030625500'
+    location: lloyd
+- entries:
+  - name: Romero-Ortuño, Román
+    scopus_id: '6506965877'
+    location: lloyd
+- entries:
+  - name: Kenny, Rose Anne
+    scopus_id: '57214210019'
+  - name: Kenny, Rose Anne
+    scopus_id: '57787016900'
+- entries:
+  - name: Rozas, Isabel
+    scopus_id: '7004096240'
+- entries:
+  - name: Byrne, Ruth M.J.
+    scopus_id: '56018937500'
+    location: lloyd
+- entries:
+  - name: Doyle, Sarah L.
+    scopus_id: '7101941609'
+    location: lloyd
+  - name: Doyle, Sarah
+    scopus_id: '57865768700'
+    location: lloyd
+- entries:
+  - name: Kennelly, Sean P.
+    scopus_id: '16555220300'
+- entries:
+  - name: O'Mara, Shane M.
+    scopus_id: '7004191598'
+    location: lloyd
+- entries:
+  - name: McCarthy-Jones, Simon
+    scopus_id: '37041677700'
+  - name: McCarthy-Jones, Simon
+    scopus_id: '57205413468'
+- entries:
+  - name: Ryan, Tomás J.
+    scopus_id: '23670791300'
+  - name: Ryan, Tomás
+    scopus_id: '57314548100'
+- entries:
+  - name: Bishop, Sonia
+    scopus_id: '7202504841'
+    location: lloyd
+- entries:
+  - name: Trepel, Dominic
+    scopus_id: '54785470600'
+    location: lloyd
+- entries:
+  - name: Leroi, Iracema
+    scopus_id: '15757531500'
+    location: lloyd
+- entries:
+  - name: McGrath, Jane
+    scopus_id: '36466752800'
+    location: lloyd
+- entries:
+  - name: Tobin, Katy
+    scopus_id: '55957834600'
+    location: lloyd
+- entries:
+  - name: Froudist-Walsh, Sean
+    scopus_id: '55327988700'
+    location: lloyd
+- entries:
+  - name: Vanneste, Sven
+    scopus_id: '35225555700'
+    location: lloyd

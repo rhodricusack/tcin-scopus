@@ -1,0 +1,8 @@
+metric,value
+publications_total,2018.0
+publications_with_if,1875.0
+publications_without_if,143.0
+match_rate,0.9291377601585729
+mean_if,10.716053333333333
+median_if,7.2
+weighted_mean_if_by_citations,26.38632951402608

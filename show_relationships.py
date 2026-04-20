@@ -2,7 +2,6 @@ import pickle
 import numpy as np
 from matplotlib import pyplot as plt
 import seaborn as sns
-import json
 from sklearn import manifold
 from sklearn.cluster import AgglomerativeClustering
 from scipy.cluster import hierarchy
@@ -10,6 +9,7 @@ import pandas as pd
 import holoviews as hv
 import matplotlib.colors as mcolors 
 from holoviews import opts, dim
+from scopus_ids_utils import load_scopus_ids
 
 def short_name(auth):
     short_name = auth.split(',')[0]+','+auth.split(',')[1].strip().replace('Dr ','')[0]
@@ -17,11 +17,10 @@ def short_name(auth):
         short_name = 'Doherty,C'
     return short_name
 
-suffix='-2023'
+suffix='-2026'
 logcoauth = False
 
-with open('scopus_ids.json', 'r') as f:
-    scopus_ids = json.load(f)
+scopus_ids = load_scopus_ids()
 
 
 with open(f'allpubs{suffix}.pickle', 'rb') as f:

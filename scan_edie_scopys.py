@@ -1,4 +1,4 @@
-import json
+from scopus_ids_utils import write_scopus_ids
 
 pos=0
 scopus_ids=[]
@@ -17,6 +17,5 @@ with open('edie_scopus_ids.txt') as f:
         id=txt[close_quotes+1:close_bracket]
         scopus_ids.append((fld,id))
     
-    with open('scopus_ids.json', 'w') as fo:
-        json.dump(scopus_ids, fo)
+    write_scopus_ids(scopus_ids)
     print(scopus_ids)
