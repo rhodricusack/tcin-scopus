@@ -9,6 +9,7 @@ import yaml
 
 
 IMPACT_BAND_ORDER = ["0", "0-2", "2-4", "4-8", "8-16", "16-32", "32+", "unmatched"]
+DISPLAY_IMPACT_BAND_ORDER = ["0-2", "2-4", "4-8", "8-16", "16-32", "32+"]
 
 
 def normalise_journal_name(name: str) -> str:
@@ -282,9 +283,15 @@ def write_outputs(merged: pd.DataFrame, output_prefix: str) -> None:
     )
     by_year_bands = by_year_bands.sort_values(["pub_year", "impact_band"], na_position="last")
 
+    by_year_bands = by_year_bands[by_year_bands["impact_band"].isin(DISPLAY_IMPACT_BAND_ORDER)].copy()
+    by_year_bands["impact_band"] = pd.Categorical(
+        by_year_bands["impact_band"], categories=DISPLAY_IMPACT_BAND_ORDER, ordered=True
+    )
+    by_year_bands = by_year_bands.sort_values(["pub_year", "impact_band"], na_position="last")
+
     plot_df = (
         by_year_bands.pivot(index="pub_year", columns="impact_band", values="publications")
-        .reindex(columns=IMPACT_BAND_ORDER)
+        .reindex(columns=DISPLAY_IMPACT_BAND_ORDER)
         .fillna(0)
     )
     if not plot_df.empty:
