@@ -278,11 +278,6 @@ def write_outputs(merged: pd.DataFrame, output_prefix: str) -> None:
         )
         .reset_index()
     )
-    by_year_bands["impact_band"] = pd.Categorical(
-        by_year_bands["impact_band"], categories=IMPACT_BAND_ORDER, ordered=True
-    )
-    by_year_bands = by_year_bands.sort_values(["pub_year", "impact_band"], na_position="last")
-
     by_year_bands = by_year_bands[by_year_bands["impact_band"].isin(DISPLAY_IMPACT_BAND_ORDER)].copy()
     by_year_bands["impact_band"] = pd.Categorical(
         by_year_bands["impact_band"], categories=DISPLAY_IMPACT_BAND_ORDER, ordered=True
